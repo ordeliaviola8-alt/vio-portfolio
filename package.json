@@ -1,0 +1,6 @@
+{
+  "name": "viola-portfolio",
+  "private": true,
+  "scripts": {"deploy:function": "supabase functions deploy admin-api"},
+  "devDependencies": {"supabase": "^3.4.0"}
+}
